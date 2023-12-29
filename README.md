@@ -1,6 +1,8 @@
 # LOTOFACIL_INTERFACE
 
 LOTOFACIL Descrição do Projeto: </br>
+
+
 O projeto é um jogo de apostas onde o usuário pode escolher entre três modalidades diferentes: adivinhar um número entre 0 e 100, adivinhar uma letra entre A e Z ou adivinhar se um número é par ou ímpar.
 
 Requisitos: Java Development Kit (JDK): Versão 8 ou superior. Bibliotecas Utilizadas: java.util.Scanner: Para leitura de entrada do usuário. java.util.Random: Para gerar números aleatórios.
